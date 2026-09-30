@@ -1,0 +1,10 @@
+pyproject.toml
+src/sysdiag/__init__.py
+src/sysdiag/cli.py
+src/sysdiag/inspector.py
+src/sysdiag.egg-info/PKG-INFO
+src/sysdiag.egg-info/SOURCES.txt
+src/sysdiag.egg-info/dependency_links.txt
+src/sysdiag.egg-info/entry_points.txt
+src/sysdiag.egg-info/top_level.txt
+tests/test_cli.py
